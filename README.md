@@ -35,6 +35,7 @@ source activate bike_sharing_proj_env
 ```
 activate bike_sharing_proj_env
 ```
+```
 conda install numpy pandas matplotlib
 jupyter notebook
 ```
