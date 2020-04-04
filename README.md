@@ -25,15 +25,15 @@ In this project, I built a neural network from scratch to carry out a prediction
 4. Run the code below to create and activate new environment
 
 ```
-conda create --name deep_learning
+conda create --name bike_sharing_proj_env
 ```
  - Mac/Linux: 
 ```
-source activate deep_learning 
+source activate bike_sharing_proj_env 
 ```
  - Windows:
 ```
-activate deep_learning
+activate bike_sharing_proj_env
 ```
 conda install numpy pandas matplotlib
 jupyter notebook
