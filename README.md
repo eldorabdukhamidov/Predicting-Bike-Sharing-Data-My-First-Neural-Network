@@ -2,13 +2,13 @@
 
 ## Predicting Bike-Sharing Data (My First Neural Network)
 
-In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know. 
+In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you can have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know. 
 
 ## Methods and Frameworks utilized
 
 - **NumPy** - a fundamental package for scientific computing in python
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
-- **Jupyter Notebook** - tool that allow the creation of documents with live code
+- **Jupyter Notebook** - a tool that allow the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy. 
 
 ## What you should already know
